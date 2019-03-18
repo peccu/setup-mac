@@ -9,3 +9,6 @@
   - https://stackoverflow.com/a/23356086/514411
   - `Preferences -> General` you will notice at the bottom of the panel, there is a setting `Load preferences from a custom folder or URL:`. There is a button next to it `Save settings to Folder`.
 - `defaults write com.apple.finder AppleShowAllFiles TRUE`
+- brew install
+  - zsh
+  - zsh-completion
