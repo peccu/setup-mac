@@ -52,3 +52,5 @@
     - temporaly copy to ~/mba
 - Fonts
   - [tonsky/FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+- golang
+  - `go get github.com/tokuhirom/git-xlsx-textconv` for diff xlsx
