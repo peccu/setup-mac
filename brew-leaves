@@ -3,6 +3,7 @@ editorconfig
 git
 git-flow
 git-lfs
+go
 jq
 p7zip
 peco
