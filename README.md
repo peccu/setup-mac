@@ -22,13 +22,11 @@
   - MacZip4Win
 - `defaults write com.apple.finder AppleShowAllFiles TRUE`
 - brew install pick up from `brew leaves`
-  - zsh
-  - zsh-completion
-    - chsh to /usr/local/bin/zsh
-  - tmux
-  - 7z
-  - unar
-  - percol? peco?
+  - see `brew-leaves`
+  - `xargs brew install < brew-leaves`
+- zsh
+  - add `/usr/local/bin/zsh` to `/etc/shells`
+  - `chsh` to `/usr/local/bin/zsh`
 - system preferences
   - keyboard
     - enable japanese
