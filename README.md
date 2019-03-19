@@ -9,7 +9,7 @@
   - [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
     - https://stackoverflow.com/a/23356086/514411
     - `Preferences -> General` you will notice at the bottom of the panel, there is a setting `Load preferences from a custom folder or URL:`. There is a button next to it `Save settings to Folder`.
-  - Menumeters
+  - MenuMeters [yujitach/MenuMeters: my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/](https://github.com/yujitach/MenuMeters)
   - RunCat
   - Cybozu Desktop
   - RescueTime
