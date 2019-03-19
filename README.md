@@ -27,6 +27,7 @@
     - chsh to /usr/local/bin/zsh
   - tmux
   - 7z
+  - unar
   - percol? peco?
 - system preferences
   - keyboard
