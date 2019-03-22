@@ -12,14 +12,16 @@
   - MenuMeters [yujitach/MenuMeters: my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/](https://github.com/yujitach/MenuMeters)
   - RunCat
   - Cybozu Desktop
-  - RescueTime
+  - RescueTime [RescueTime : Time management software for staying productive and happy in the modern workplace](https://www.rescuetime.com/)
   - [Spectacle](https://www.spectacleapp.com/)
   - Cerebro
   - Camunda Modeler
-  - Barrier
+  - Barrier 2.1.0 [debauchee/barrier: Open-source KVM software](https://github.com/debauchee/barrier)
   - Dynalist
   - Wey
-  - MacZip4Win
+  - MacZip4Win [MacZip4Win | YNOMURA.COM](http://ynomura.com/home/?page_id=116)
+  - BitBar [matryer/bitbar: Put the output from any script or program in your Mac OS X Menu Bar](https://github.com/matryer/bitbar)
+  - [Keybase](https://keybase.io/docs/the_app/install_macos)
 - `defaults write com.apple.finder AppleShowAllFiles TRUE`
 - brew install pick up from `brew leaves`
   - see `brew-leaves`
