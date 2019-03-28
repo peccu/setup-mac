@@ -22,6 +22,7 @@
   - MacZip4Win [MacZip4Win | YNOMURA.COM](http://ynomura.com/home/?page_id=116)
   - BitBar [matryer/bitbar: Put the output from any script or program in your Mac OS X Menu Bar](https://github.com/matryer/bitbar)
   - [Keybase](https://keybase.io/docs/the_app/install_macos)
+  - Pencil [Home - Pencil Project](http://pencil.evolus.vn/)
 - `defaults write com.apple.finder AppleShowAllFiles TRUE`
 - brew install pick up from `brew leaves`
   - see `brew-leaves`
