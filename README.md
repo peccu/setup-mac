@@ -23,6 +23,7 @@
   - BitBar [matryer/bitbar: Put the output from any script or program in your Mac OS X Menu Bar](https://github.com/matryer/bitbar)
   - [Keybase](https://keybase.io/docs/the_app/install_macos)
   - Pencil [Home - Pencil Project](http://pencil.evolus.vn/)
+  - CleanMyMac X [CleanMyMac X: The Best Mac Cleanup App for macOS. Get a Cleaner Mac in Minutes.](https://macpaw.com/cleanmymac)
 - `defaults write com.apple.finder AppleShowAllFiles TRUE`
 - brew install pick up from `brew leaves`
   - see `brew-leaves`
