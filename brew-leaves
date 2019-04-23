@@ -1,10 +1,15 @@
 autojump
+bat
 editorconfig
+fd
+fzf
 git
 git-flow
 git-lfs
 go
 jq
+nkf
+node
 p7zip
 peco
 ripgrep
@@ -14,4 +19,6 @@ tmux
 unar
 zplug
 zsh
+zsh-autosuggestions
 zsh-completions
+zsh-syntax-highlighting
