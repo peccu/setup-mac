@@ -25,6 +25,7 @@
   - Pencil [Home - Pencil Project](http://pencil.evolus.vn/)
   - CleanMyMac X [CleanMyMac X: The Best Mac Cleanup App for macOS. Get a Cleaner Mac in Minutes.](https://macpaw.com/cleanmymac)
   - Skitch.app from AppStore
+  - App Cleaner [AppCleaner](https://freemacsoft.net/appcleaner/)
 - `defaults write com.apple.finder AppleShowAllFiles TRUE`
 - brew install pick up from `brew leaves`
   - see `brew-leaves`
