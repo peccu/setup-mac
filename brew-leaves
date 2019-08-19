@@ -1,8 +1,11 @@
 autojump
 bat
 editorconfig
+elixir
 fd
+k1low/tap/filt
 fzf
+gawk
 git
 git-flow
 git-lfs
@@ -12,7 +15,9 @@ nkf
 node
 p7zip
 peco
+pstree
 ripgrep
+rlwrap
 stunnel
 terminal-notifier
 tmux
