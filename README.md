@@ -33,6 +33,10 @@
 - zsh
   - add `/usr/local/bin/zsh` to `/etc/shells`
   - `chsh` to `/usr/local/bin/zsh`
+  - reload completion
+    - `autoload -U compinit;compinit -u;rm ~/.zcompdump; compinit`
+- gem
+  - `sudo gem install license-generator`
 - system preferences
   - keyboard
     - enable japanese
