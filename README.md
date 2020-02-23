@@ -28,6 +28,7 @@
   - App Cleaner [AppCleaner](https://freemacsoft.net/appcleaner/)
   - DBearver [DBeaver Community | Free Universal Database Tool](https://dbeaver.io/)
   - Insomnia [Insomnia REST Client](https://insomnia.rest/)
+  - [Biscuit | A browser so your apps don't get buried in tabs](https://eatbiscuit.com/)
 - `defaults write com.apple.finder AppleShowAllFiles TRUE`
 - brew install pick up from `brew leaves`
   - see `brew-leaves`
